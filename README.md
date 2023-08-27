@@ -1,1 +1,1 @@
-The primary goal of this project is to develop a face recognition system that can automatically detect and identify individuals in images or real-time video streams. Leveraging the OpenCV library, we can harness the capabilities of computer vision to process and analyze facial features, ultimately leading to accurate identification.
+
